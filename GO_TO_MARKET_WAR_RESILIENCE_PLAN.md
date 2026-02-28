@@ -118,17 +118,8 @@ Use pilots to calibrate price to measurable value (hours saved, incidents avoide
 
 ---
 
-## 7) Hard red lines (non-negotiable)
 
-- No targeting support for violence
-- No deceptive influence operations
-- No sanctions evasion support
-- No malware development or unauthorized access guidance
-- Shut down any workflow that violates the constitution's harm constraints
-
----
-
-## 8) Practical "make money fast" starting motion
+## 7) Practical "make money fast" starting motion
 
 If you want immediate momentum:
 1. Start with **Lane B (supply-chain disruption monitoring)** because buyers can quickly quantify ROI.
